@@ -2,14 +2,7 @@ The goal of this coding exam is to quickly get you off the ground with **Lists a
 
 ### Refer to the image below:
 link:- https://mytask010.ccbp.tech/
-<br>
-<div style="text-align: center;">
-  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/my-tasks-output.mp4" type="video/mp4">
-    
-  </video>
-</div>
-<br/>
+![image](https://github.com/user-attachments/assets/91e54aae-830b-481c-8eba-c14947f7b7b9)
 
 ### Design Files
 
